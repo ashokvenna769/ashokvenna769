@@ -6,7 +6,7 @@ Senior Software Engineer
 
 Senior Software Engineer with 7 years of expertise in Azure cloud development, .NET frameworks, and Angular. Proven success in building scalable, secure applications using Azure PaaS/iPaaS services, CI/CD pipelines, and Agile methodologies. Adept at mentoring teams, implementing FHIR standards, and adhering to healthcare data privacy laws. I bring expertise in scalable systems and fostering collaboration between development and operations teams. I hold a Master's degree in Computer Science from Southeast Missouri State University (2021) and am currently open to new opportunities.
 
-* 🌍  I'm based in New Jersey, NJ, USA
+* 🌍  I'm based in New Jersey, USA
 * ✉️  You can contact me at [vennaashok95@outlook.com](mailto:vennaashok95@outlook.com)
 
 ### Skills
